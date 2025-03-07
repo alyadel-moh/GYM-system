@@ -1,0 +1,8 @@
+M1001,Magdy, yearly,monthlyokookok@, 0113322,  active
+M1003, Wael, monthly ,sodejdo@, 011, active
+M1004, Qasem, monthly,eee@, 02993-49, expired
+M1005, Taha, monthly,ekod@, 495777584, expired
+M1006, Abdo, monthly,ekoo@, 5099950, active
+1001,Magdy,yearly,alyadel@gmail.com,01013999191,active
+M2006,mazennnn,weekly,mazeennn2@gmail.com,1233555,active
+M1000,a,b,c,123,aaaa
